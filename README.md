@@ -269,7 +269,6 @@ page4.html
 
   ~~~
 ## OUTPUT:
-
 ![alt text](img.jpg)
 
 ## RESULT:
