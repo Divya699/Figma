@@ -516,11 +516,7 @@ end of the page
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-10-14 200548.png>)
-![alt text](<Screenshot 2025-10-14 200606.png>)
-![alt text](<Screenshot 2025-10-14 200649.png>)
-![alt text](<Screenshot 2025-10-14 200706.png>)
-
+<img width="1529" height="509" alt="Screenshot 2025-10-15 174353" src="https://github.com/user-attachments/assets/32676b21-3e18-4d37-b6d8-40e14666eddd" />
 
 
 
